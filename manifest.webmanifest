@@ -1,0 +1,10 @@
+{
+  "name": "Job Search",
+  "short_name": "Job Search",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f2ff",
+  "theme_color": "#2563eb",
+  "icons": []
+}
